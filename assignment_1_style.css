@@ -1,0 +1,166 @@
+.topbar{
+    height: 60px;
+    background-color: #CE0505;
+}
+.smalllogo{
+    margin-left: 110px;
+    width: 32px;
+    height: 47px;
+    text-align: left;
+    font: normal normal 600 33px/50px Arial;
+    letter-spacing: 0px;
+    color: #CE0505;
+    background-color: white;
+    opacity: 1;
+    border-radius: 50%;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 2px;
+}
+.topbar-login{
+    display:inline-block;
+    background-color: #CE0505;
+    margin-left: 69%;
+    color: aliceblue;
+    font: normal normal medium 16px/25px Arial;  
+    opacity: 1;  
+}
+.topbar-account{
+    display: inline-block;
+    background-color: #CE0505;
+    color: aliceblue;
+    border: solid 1px white;
+    border-radius: 4px;
+    margin-left: 15px;
+    margin-top: 12px;
+    padding: 8px;
+    font: normal normal medium 16px/25px Arial;
+}
+.pagecontent{
+    margin-left: 113px;
+}
+.majorheading{
+    text-align: left;
+    font: normal normal bold 36px/55px Arial;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+.filterbar{
+    display: inline-block;
+    box-shadow: 0px 3px 6px #00000029;
+    padding: 26px;
+    height: 460px;
+    width: 150px;
+}
+.type1{
+    font: normal normal 600 18px/27px Arial;
+    color: #192F60;
+}
+.type2{
+    font: normal normal normal 14px/21px Arial;
+    color: #192F60;
+}
+.selecloc{
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    padding-right: 30px;
+    height: 30px;
+}
+.filt{
+    text-align: left;
+    font: normal normal normal 14px/21px Arial;
+    color: #8C96AB;
+    opacity: 1;
+}
+.results{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 60px;
+    margin-bottom: 0;
+}
+.result{
+    height: 230px;
+    width: 750px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.leftunit{
+    display: inline-block;
+    width: 30%;
+    margin-left: 35px;
+    padding-top: 35px;
+    border-radius: 50%;
+}
+.rightunit{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+}
+.resultheading{
+    text-align: left;
+    font: normal normal 600 30px/46px Arial;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+.resultheading2{
+    text-align: left;
+    font: normal normal medium 16px/30px Arial;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+.shopaddress{
+    text-align: left;
+    font: normal normal normal 16px/30px Arial;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+}
+.cuisinecosttable{
+    margin-left: 45px;
+}
+.cuisines{
+    text-align: left;
+    font: normal normal normal 16px/30px Arial;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+}
+.costtype{
+    text-align: center;
+    font: normal normal bold 16px/30px Arial;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+.rightcosttable{
+    display:inline-block;
+    margin-left: 95px;
+}
+.moreresults{
+    margin-left: 45%;
+    margin-bottom: 10px;
+}
+.numbermore{
+    font-size: x-large;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    color: #8C96AB;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 6px;
+}
+.numbermore2{
+    font-size: x-large;
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 2;
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 6px;
+}
